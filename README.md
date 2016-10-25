@@ -16,21 +16,21 @@ Assignment details
 Do the following to complete this assignment:
 
 1. Fork the [starting project code](http://github.com/cs4241-16b/gettingstarted). This file contains:
-a. the server code, server.js
-b. the Procfile that you need for Heroku deployment
-c. A starting index.html file that you will edit as described below
+    a. the server code, server.js
+    b. the Procfile that you need for Heroku deployment
+    c. A starting index.html file that you will edit as described below
 2. Edit the index file to show the following information about you:
-a. your name and class at WPI (e.g. class of 2013) Note: Do not put any contact or personal information that you do not potentially want other people outside of this class to see.
-b. your major(s) and minor(s)
-c. previous computer science courses that you have taken at WPI
-d. your experience with the following technologies and methods (none, some, a lot)
-- HTML
-- CSS
-- Java
-- JavaScript
-- Ruby
-- Python
-- unit testing
+    a. your name and class at WPI (e.g. class of 2013) Note: Do not put any contact or personal information that you do not potentially want other people outside of this class to see.
+    b. your major(s) and minor(s)
+    c. previous computer science courses that you have taken at WPI
+    d. your experience with the following technologies and methods (none, some, a lot)
+        - HTML
+        - CSS
+        - Java
+        - JavaScript
+        - Ruby
+        - Python
+        - unit testing
 3. Test your project to make sure that when someone goes to your main page, it displays correctly.
 4. Deploy your project to Heroku.
 5. Submit a Pull Request (see "GitHub Details" below) with your updated code and readme. At the top of the readme, you must have a URL where graders can view your Web site. Make sure that you have your name as comments in all files that you create or modify. This includes HTML documents, CSS files, and JavaScript.
